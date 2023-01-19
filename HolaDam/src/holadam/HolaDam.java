@@ -9,5 +9,8 @@ package holadam;
  * @author cabdelda
  */
 public class HolaDam {
+    public static void main(String[] args) {
+        
+    }
     
 }
